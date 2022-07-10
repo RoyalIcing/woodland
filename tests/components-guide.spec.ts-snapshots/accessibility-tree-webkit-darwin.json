@@ -1,0 +1,405 @@
+{
+  "role": "WebArea",
+  "name": "Guides to React, Accessibility, Modern CSS, TypeScript · Components.Guide",
+  "children": [
+    {
+      "role": "button",
+      "name": "MENU",
+      "haspopup": "menu"
+    },
+    {
+      "role": "link",
+      "name": "COMPONENTS \n·GUIDE",
+      "children": [
+        {
+          "role": "text",
+          "name": "COMPONENTS "
+        },
+        {
+          "role": "text",
+          "name": "·GUIDE"
+        }
+      ]
+    },
+    {
+      "role": "searchbox",
+      "name": "Search…"
+    },
+    {
+      "role": "text",
+      "name": "Want to learn how to improve the "
+    },
+    {
+      "role": "text",
+      "name": "UX & DX"
+    },
+    {
+      "role": "text",
+      "name": " of your components?"
+    },
+    {
+      "role": "text",
+      "name": "Get better at accessibility, testing, naming, performance, and using built-in browser features — all for free."
+    },
+    {
+      "role": "text",
+      "name": "Topics include:"
+    },
+    {
+      "role": "link",
+      "name": "Accessibility"
+    },
+    {
+      "role": "link",
+      "name": "TypeScript"
+    },
+    {
+      "role": "link",
+      "name": "React"
+    },
+    {
+      "role": "link",
+      "name": "Testing"
+    },
+    {
+      "role": "link",
+      "name": "Naming"
+    },
+    {
+      "role": "link",
+      "name": "HTTP"
+    },
+    {
+      "role": "link",
+      "name": "API Design"
+    },
+    {
+      "role": "link",
+      "name": "Managing State"
+    },
+    {
+      "role": "link",
+      "name": "Caching"
+    },
+    {
+      "role": "link",
+      "name": "Performance"
+    },
+    {
+      "role": "link",
+      "name": "Async"
+    },
+    {
+      "role": "text",
+      "name": "🔊🥇"
+    },
+    {
+      "role": "text",
+      "name": "Accessibility-First"
+    },
+    {
+      "role": "link",
+      "name": "Why?"
+    },
+    {
+      "role": "link",
+      "name": "Navigation"
+    },
+    {
+      "role": "link",
+      "name": "Landmarks"
+    },
+    {
+      "role": "link",
+      "name": "Content"
+    },
+    {
+      "role": "link",
+      "name": "Forms"
+    },
+    {
+      "role": "link",
+      "name": "All Roles"
+    },
+    {
+      "role": "link",
+      "name": "Accessible Name"
+    },
+    {
+      "role": "link",
+      "name": "Snapshots"
+    },
+    {
+      "role": "link",
+      "name": "Properties"
+    },
+    {
+      "role": "link",
+      "name": "Widgets"
+    },
+    {
+      "role": "image",
+      "name": "React logo"
+    },
+    {
+      "role": "text",
+      "name": "❤️"
+    },
+    {
+      "role": "image",
+      "name": "TypeScript logo"
+    },
+    {
+      "role": "text",
+      "name": "React & TypeScript Guide"
+    },
+    {
+      "role": "link",
+      "name": "Fundamentals"
+    },
+    {
+      "role": "link",
+      "name": "Testing"
+    },
+    {
+      "role": "link",
+      "name": "Reducer Patterns"
+    },
+    {
+      "role": "link",
+      "name": "Zero Hook Dependencies"
+    },
+    {
+      "role": "link",
+      "name": "Hooks in a Concurrent World"
+    },
+    {
+      "role": "link",
+      "name": "Logical Clocks"
+    },
+    {
+      "role": "link",
+      "name": "Forms"
+    },
+    {
+      "role": "link",
+      "name": "Playground"
+    },
+    {
+      "role": "text",
+      "name": "🫵🏾🔨"
+    },
+    {
+      "role": "text",
+      "name": "Robust JavaScript Interactivity"
+    },
+    {
+      "role": "link",
+      "name": "What goes wrong?"
+    },
+    {
+      "role": "link",
+      "name": "Idempotency"
+    },
+    {
+      "role": "text",
+      "name": "🤝💝"
+    },
+    {
+      "role": "text",
+      "name": "Web Standards"
+    },
+    {
+      "role": "link",
+      "name": "Why?"
+    },
+    {
+      "role": "link",
+      "name": "URL"
+    },
+    {
+      "role": "link",
+      "name": "HTML"
+    },
+    {
+      "role": "link",
+      "name": "Promise"
+    },
+    {
+      "role": "link",
+      "name": "HTTP Headers"
+    },
+    {
+      "role": "link",
+      "name": "HTTP Caching"
+    },
+    {
+      "role": "text",
+      "name": "🖇🍀"
+    },
+    {
+      "role": "text",
+      "name": "Composable Systems"
+    },
+    {
+      "role": "link",
+      "name": "Why?"
+    },
+    {
+      "role": "link",
+      "name": "Opinionated vs Flexible"
+    },
+    {
+      "role": "link",
+      "name": "Desirable Properties"
+    },
+    {
+      "role": "text",
+      "name": "There’s a lot of learning materials on specific technologies out there. But technologies change — rapidly."
+    },
+    {
+      "role": "text",
+      "name": "Frameworks will come and go. React might be the hotness today, but in a few years another framework might well rule the roost."
+    },
+    {
+      "role": "text",
+      "name": "The guides here cover what will remain relevant for decades to come:"
+    },
+    {
+      "role": "text",
+      "name": "Great UX and performance"
+    },
+    {
+      "role": "text",
+      "name": "Accessibility"
+    },
+    {
+      "role": "text",
+      "name": "Component naming & responsibility"
+    },
+    {
+      "role": "text",
+      "name": "TDD & BDD"
+    },
+    {
+      "role": "text",
+      "name": "Thinking about state"
+    },
+    {
+      "role": "text",
+      "name": "Modular styling with modern CSS"
+    },
+    {
+      "role": "text",
+      "name": "Leveraging what’s built into browsers first"
+    },
+    {
+      "role": "text",
+      "name": "It’s all free to read and share."
+    },
+    {
+      "role": "text",
+      "name": "Follow "
+    },
+    {
+      "role": "link",
+      "name": "@ComponentsGuide"
+    },
+    {
+      "role": "text",
+      "name": " on Twitter for the latest articles."
+    },
+    {
+      "role": "heading",
+      "name": "Subscribe to the free email newsletter",
+      "level": 1
+    },
+    {
+      "role": "text",
+      "name": "​"
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "textbox",
+      "name": "Email",
+      "required": true
+    },
+    {
+      "role": "button",
+      "name": "Yes, I want to receive the monthly newsletter"
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "text",
+      "name": "We respect your privacy. Unsubscribe at any time."
+    },
+    {
+      "role": "link",
+      "name": "Powered By ConvertKit"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2022 Patrick Smith"
+    },
+    {
+      "role": "link",
+      "name": "Creative Commons License",
+      "children": [
+        {
+          "role": "image",
+          "name": "Creative Commons License"
+        }
+      ]
+    },
+    {
+      "role": "text",
+      "name": "Components.Guide"
+    },
+    {
+      "role": "text",
+      "name": " by "
+    },
+    {
+      "role": "link",
+      "name": "Patrick Smith"
+    },
+    {
+      "role": "text",
+      "name": " is "
+    },
+    {
+      "role": "link",
+      "name": "licensed"
+    },
+    {
+      "role": "text",
+      "name": " under a "
+    },
+    {
+      "role": "link",
+      "name": "Creative Commons Attribution-ShareAlike 4.0 International License"
+    },
+    {
+      "role": "text",
+      "name": "."
+    },
+    {
+      "role": "link",
+      "name": "View source on GitHub"
+    },
+    {
+      "role": "link",
+      "name": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": "View analytics"
+    }
+  ]
+}

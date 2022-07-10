@@ -1,5 +1,4 @@
-import { test, expect } from "@playwright/test";
-import { printTree } from "./helpers";
+import { test, expect, printTree } from "./helpers";
 
 test.beforeEach(async ({ page }) => {
   await page.goto("https://stripe.com/");

@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@playwright-testing-library/test": "^4.2.1",
     "@playwright/test": "^1.23.1"
   }
 }
